@@ -1,2 +1,2 @@
-This is my cool config for NeoVim
-Feel free to use it
+<p>This is my cool config for NeoVim</p>
+<p>Feel free to use it</p>
